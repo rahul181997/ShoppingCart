@@ -1,5 +1,6 @@
 # Deployed Link
 This app is deploye on vercel:
+[https://shopping-cart-rahul-kumars-projects-b18eaaf1.vercel.app/]
 
 
 ## Technology used:
